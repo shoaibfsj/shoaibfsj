@@ -20,4 +20,4 @@ I'm a passionate Full-Stack Java Developer with extensive experience in building
 - **LogiFlow (AllcargoGATI):** Enhanced logistics operations with real-time tracking and process automation.
 
 ## 🔗 Let's Connect!
-[LinkedIn]((https://www.linkedin.com/in/shoaibfsj/)) | [Email](mailto:shoaibfsj914@gmail.com) | [GitHub](https://github.com/shoaibfsj)
+[LinkedIn](https://www.linkedin.com/in/shoaibfsj/) | [Email](mailto:shoaibfsj914@gmail.com) | [GitHub](https://github.com/shoaibfsj)
