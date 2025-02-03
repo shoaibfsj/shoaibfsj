@@ -16,7 +16,7 @@ I'm a passionate Full-Stack Java Developer with extensive experience in building
 - **CoreSure (Texas Mutual Insurance):** Optimized insurance operations by building scalable microservices and frontend components.
 - **CloudIQ (Flexera):** Developed cloud optimization solutions enhancing resource utilization and cost management.
 - **AutoOptimize (CarMax):** Streamlined automotive operations with robust policy management and inventory tracking.
-- **PayStream (Gen Central):** Automated financial processes ensuring smooth transaction processing and reporting.
+- **AvalonPayOps (Avalon Health Care Group):** Automated financial processes ensuring smooth transaction processing and reporting.
 - **LogiFlow (AllcargoGATI):** Enhanced logistics operations with real-time tracking and process automation.
 
 ## 🔗 Let's Connect!
